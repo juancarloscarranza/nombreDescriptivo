@@ -6,4 +6,6 @@ Contiene:
 * CSS
 
   ## TODO
-  Funcionalidad con JavaScript
+  * Funcionalidad con JavaScript
+  * Archivos PHP para el backend
+  
